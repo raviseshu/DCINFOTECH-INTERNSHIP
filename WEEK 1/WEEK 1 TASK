@@ -1,0 +1,22 @@
+Week 1: 
+
+
+Data Collection and Preprocessing
+Project: Collect a dataset from an online source (e.g.,
+Kaggle) and preprocess it using basic NLP techniques.
+Document the preprocessing steps.
+
+
+
+EXPLANATION
+First week of my project focused on processing the medal tally data for the upcoming Paris Olympics using Spring Boot!
+Key Accomplishments:
+
+Implemented REST API: Developed a MedalTallyController to handle requests and return processed CSV data.
+CSV Data Processing: Created a MedalTallyService to read and parse the medal tally CSV file, utilizing Apache Commons CSV for efficient data handling.
+NLP Integration: I started integrating NLP techniques, including tokenization, and meaningfully analyzing the data.
+Next Steps:
+
+Enhance the NLP capabilities to extract insights from the medal tally data.
+Implement additional features based on the analysis results.
+I'm looking forward to diving deeper into this project and sharing more updates soon!
